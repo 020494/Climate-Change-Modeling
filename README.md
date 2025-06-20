@@ -1,9 +1,9 @@
-🌍 Climate Change Modeling & Public Sentiment Analysis
+# 🌍 Climate Change Modeling & Public Sentiment Analysis
 
 This project analyzes public sentiment on NASA’s Facebook posts related to climate change. Using text mining, sentiment analysis, and machine learning, it identifies emotional tones in comments and explores how environmental factors like temperature and CO₂ emissions influence public perception.
 
 
-🎯 Objectives
+# 🎯 Objectives
 
 - Classify public comments into positive, neutral, or negative sentiments.
 - Use machine learning (Random Forest) to predict sentiment scores based on user engagement and 
@@ -11,7 +11,7 @@ This project analyzes public sentiment on NASA’s Facebook posts related to cli
 - Explore emotional responses and trends in social media discourse related to climate change.
 - Provide insights that help improve climate communication strategies.
 
-🔍 Project Highlights
+# 🔍 Project Highlights
 
 - Applied text cleaning, tokenization, and sentiment scoring (using TextBlob).
 - Generated word clouds to visualize frequent emotional and environmental themes.
@@ -20,14 +20,14 @@ This project analyzes public sentiment on NASA’s Facebook posts related to cli
 - Capped outliers to reduce skewed predictions and improve accuracy.
 - Scenario-based analysis to study the effect of environmental variables on sentiment.
 
-🧰 Technologies Used
+# 🧰 Technologies Used
 
 - Python (pandas, NumPy, matplotlib, seaborn)
 - NLP: TextBlob, NLTK
 - Machine Learning: scikit-learn (Random Forest)
 - Visualization: WordCloud, Matplotlib, Seaborn
 
-💡 Key Insights
+# 💡 Key Insights
 
 - Emotionally strong comments attracted more engagement.
 - Most comments were neutral, but both positive and negative sentiments influenced interactions.
